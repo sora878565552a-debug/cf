@@ -1,0 +1,42 @@
+{
+  "at": "2026-11-05T18:56:57.228Z",
+  "candidates": 300,
+  "alive": 76,
+  "picks": [
+    {
+      "ip": "104.18.43.24",
+      "colo": "SIN",
+      "tcpMs": 70,
+      "score": 0.6615,
+      "samples": 1
+    },
+    {
+      "ip": "172.64.146.54",
+      "colo": "SIN",
+      "tcpMs": 72,
+      "score": 0.6579999999999999,
+      "samples": 1
+    },
+    {
+      "ip": "198.41.211.16",
+      "colo": null,
+      "tcpMs": 65,
+      "score": 0.5859,
+      "samples": 1
+    },
+    {
+      "ip": "162.159.10.213",
+      "colo": null,
+      "tcpMs": 71,
+      "score": 0.5761,
+      "samples": 1
+    },
+    {
+      "ip": "162.159.2.246",
+      "colo": null,
+      "tcpMs": 71,
+      "score": 0.5761,
+      "samples": 1
+    }
+  ]
+}
