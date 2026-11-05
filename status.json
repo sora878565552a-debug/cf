@@ -1,47 +1,87 @@
 {
-  "at": "2026-11-05T20:59:34.578Z",
-  "candidates": 602,
-  "alive": 151,
+  "at": "2026-11-05T22:06:25.233Z",
+  "candidates": 599,
+  "alive": 150,
   "picks": [
     {
       "ip": "104.18.46.131",
       "colo": "SIN",
       "tcpMs": 74,
-      "raw": 0.941,
-      "score": 1.001,
-      "samples": 3
-    },
-    {
-      "ip": "104.17.32.175",
-      "colo": "LAX",
-      "tcpMs": 185,
-      "raw": 0.386,
-      "score": 0.446,
-      "samples": 3
+      "raw": 0.937,
+      "score": 0.9970000000000001,
+      "samples": 6
     },
     {
       "ip": "104.16.159.20",
       "colo": "LAX",
-      "tcpMs": 187,
-      "raw": 0.405,
-      "score": 0.465,
-      "samples": 3
-    },
-    {
-      "ip": "190.93.247.195",
-      "colo": "LAX",
-      "tcpMs": 187,
-      "raw": 0.399,
-      "score": 0.459,
-      "samples": 3
+      "tcpMs": 189,
+      "raw": 0.402,
+      "score": 0.462,
+      "samples": 6
     },
     {
       "ip": "104.17.220.44",
       "colo": "LAX",
-      "tcpMs": 184,
+      "tcpMs": 186,
       "raw": 0.402,
       "score": 0.462,
-      "samples": 3
+      "samples": 6
+    },
+    {
+      "ip": "190.93.247.195",
+      "colo": "LAX",
+      "tcpMs": 188,
+      "raw": 0.399,
+      "score": 0.459,
+      "samples": 6
+    },
+    {
+      "ip": "104.17.172.36",
+      "colo": "LAX",
+      "tcpMs": 183,
+      "raw": 0.431,
+      "score": 0.451,
+      "samples": 1
+    },
+    {
+      "ip": "104.17.194.226",
+      "colo": "LAX",
+      "tcpMs": 182,
+      "raw": 0.429,
+      "score": 0.449,
+      "samples": 1
+    },
+    {
+      "ip": "190.93.245.170",
+      "colo": "LAX",
+      "tcpMs": 185,
+      "raw": 0.429,
+      "score": 0.449,
+      "samples": 1
+    },
+    {
+      "ip": "104.16.86.105",
+      "colo": "LAX",
+      "tcpMs": 186,
+      "raw": 0.428,
+      "score": 0.448,
+      "samples": 1
+    },
+    {
+      "ip": "104.17.92.198",
+      "colo": "LAX",
+      "tcpMs": 187,
+      "raw": 0.427,
+      "score": 0.447,
+      "samples": 1
+    },
+    {
+      "ip": "104.17.32.175",
+      "colo": "LAX",
+      "tcpMs": 193,
+      "raw": 0.386,
+      "score": 0.446,
+      "samples": 6
     }
   ]
 }
