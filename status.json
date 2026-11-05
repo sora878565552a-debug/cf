@@ -1,47 +1,47 @@
 {
-  "at": "2026-11-05T20:58:05.892Z",
-  "candidates": 603,
-  "alive": 138,
+  "at": "2026-11-05T20:59:34.578Z",
+  "candidates": 602,
+  "alive": 151,
   "picks": [
     {
       "ip": "104.18.46.131",
       "colo": "SIN",
-      "tcpMs": 80,
+      "tcpMs": 74,
       "raw": 0.941,
-      "score": 0.981,
-      "samples": 2
+      "score": 1.001,
+      "samples": 3
     },
     {
       "ip": "104.17.32.175",
       "colo": "LAX",
-      "tcpMs": 184,
-      "raw": 0.434,
-      "score": 0.474,
-      "samples": 2
+      "tcpMs": 185,
+      "raw": 0.386,
+      "score": 0.446,
+      "samples": 3
     },
     {
       "ip": "104.16.159.20",
       "colo": "LAX",
-      "tcpMs": 186,
-      "raw": 0.417,
-      "score": 0.45699999999999996,
-      "samples": 2
+      "tcpMs": 187,
+      "raw": 0.405,
+      "score": 0.465,
+      "samples": 3
     },
     {
       "ip": "190.93.247.195",
       "colo": "LAX",
-      "tcpMs": 188,
-      "raw": 0.416,
-      "score": 0.45599999999999996,
-      "samples": 2
+      "tcpMs": 187,
+      "raw": 0.399,
+      "score": 0.459,
+      "samples": 3
     },
     {
       "ip": "104.17.220.44",
       "colo": "LAX",
-      "tcpMs": 190,
-      "raw": 0.416,
-      "score": 0.45599999999999996,
-      "samples": 2
+      "tcpMs": 184,
+      "raw": 0.402,
+      "score": 0.462,
+      "samples": 3
     }
   ]
 }
