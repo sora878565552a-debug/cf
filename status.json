@@ -1,25 +1,55 @@
 {
-  "at": "2026-11-06T12:07:47.057Z",
-  "candidates": 1036,
-  "alive": 223,
+  "at": "2026-11-06T12:12:11.668Z",
+  "candidates": 1043,
+  "alive": 230,
   "picks": [
     {
-      "ip": "104.24.149.222",
-      "colo": "FRA",
-      "tcpMs": 215,
-      "raw": 0.38,
-      "score": 0.4,
-      "samples": 1,
-      "dataMs": 974
+      "ip": "104.18.41.190",
+      "colo": "SIN",
+      "tcpMs": 79,
+      "raw": 0.94,
+      "score": 1,
+      "samples": 5
     },
     {
-      "ip": "104.26.4.90",
+      "ip": "172.64.156.31",
+      "colo": "SIN",
+      "tcpMs": 79,
+      "raw": 0.972,
+      "score": 1.032,
+      "samples": 6
+    },
+    {
+      "ip": "172.64.146.122",
+      "colo": "SIN",
+      "tcpMs": 80,
+      "raw": 0.955,
+      "score": 1.015,
+      "samples": 6
+    },
+    {
+      "ip": "104.25.182.93",
       "colo": "FRA",
-      "tcpMs": 213,
-      "raw": 0.455,
-      "score": 0.47500000000000003,
-      "samples": 1,
-      "dataMs": 1014
+      "tcpMs": 1229,
+      "raw": 0.514,
+      "score": 0.5740000000000001,
+      "samples": 6
+    },
+    {
+      "ip": "104.24.243.35",
+      "colo": "FRA",
+      "tcpMs": 1244,
+      "raw": 0.535,
+      "score": 0.595,
+      "samples": 6
+    },
+    {
+      "ip": "172.64.156.231",
+      "colo": "SIN",
+      "tcpMs": 83,
+      "raw": 0.98,
+      "score": 1.04,
+      "samples": 5
     }
   ]
 }
