@@ -1,55 +1,39 @@
 {
-  "at": "2026-11-15T03:44:44.971Z",
-  "candidates": 207,
-  "alive": 102,
+  "at": "2026-11-16T09:11:12.202Z",
+  "candidates": 206,
+  "alive": 103,
   "picks": [
     {
       "ip": "104.18.41.128",
       "colo": "SIN",
-      "tcpMs": 83,
+      "tcpMs": 84,
       "raw": 0.906,
       "score": 0.966,
-      "samples": 5
+      "samples": 6
     },
     {
       "ip": "104.18.41.226",
       "colo": "SIN",
-      "tcpMs": 82,
+      "tcpMs": 75,
       "raw": 0.81,
       "score": 0.8700000000000001,
-      "samples": 3
-    },
-    {
-      "ip": "104.18.47.149",
-      "colo": "SIN",
-      "tcpMs": 84,
-      "raw": 0.51,
-      "score": 0.5700000000000001,
-      "samples": 3
+      "samples": 4
     },
     {
       "ip": "172.64.146.203",
       "colo": "SIN",
-      "tcpMs": 76,
+      "tcpMs": 82,
       "raw": 0.691,
       "score": 0.7509999999999999,
-      "samples": 3
+      "samples": 4
     },
     {
       "ip": "104.18.35.157",
       "colo": "SIN",
-      "tcpMs": 77,
+      "tcpMs": 84,
       "raw": 0.67,
       "score": 0.73,
-      "samples": 3
-    },
-    {
-      "ip": "172.64.147.74",
-      "colo": "SIN",
-      "tcpMs": 83,
-      "raw": 0.604,
-      "score": 0.6639999999999999,
-      "samples": 3
+      "samples": 4
     }
   ]
 }
