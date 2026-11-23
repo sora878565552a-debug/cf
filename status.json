@@ -1,93 +1,39 @@
 {
-  "at": "2026-11-21T19:01:48.589Z",
-  "candidates": 204,
-  "alive": 92,
+  "at": "2026-11-23T11:48:24.372Z",
+  "candidates": 210,
+  "alive": 97,
   "picks": [
-    {
-      "ip": "172.64.146.26",
-      "colo": "SIN",
-      "tcpMs": 81,
-      "raw": 0.959,
-      "score": 1.019,
-      "samples": 6
-    },
     {
       "ip": "104.18.41.99",
       "colo": "SIN",
-      "tcpMs": 81,
-      "raw": 0.878,
-      "score": 0.938,
-      "samples": 4
-    },
-    {
-      "ip": "172.64.146.172",
-      "colo": "SIN",
-      "tcpMs": 88,
-      "raw": 0.732,
-      "score": 0.792,
-      "samples": 6
+      "tcpMs": 77,
+      "raw": 0.708,
+      "score": 0.768,
+      "samples": 5
     },
     {
       "ip": "172.64.156.130",
       "colo": "SIN",
-      "tcpMs": 82,
-      "raw": 0.688,
-      "score": 0.708,
-      "samples": 1,
-      "dataMs": 1576
+      "tcpMs": 85,
+      "raw": 0.701,
+      "score": 0.741,
+      "samples": 2
     },
     {
       "ip": "104.18.41.234",
       "colo": "SIN",
       "tcpMs": 78,
       "raw": 0.648,
-      "score": 0.668,
-      "samples": 1,
-      "dataMs": 1569
+      "score": 0.6880000000000001,
+      "samples": 2
     },
     {
       "ip": "172.64.146.154",
       "colo": "SIN",
-      "tcpMs": 86,
+      "tcpMs": 77,
       "raw": 0.635,
-      "score": 0.655,
-      "samples": 1,
-      "dataMs": 1950
-    },
-    {
-      "ip": "104.18.36.60",
-      "colo": "SIN",
-      "tcpMs": 87,
-      "raw": 0.565,
-      "score": 0.625,
-      "samples": 4
-    },
-    {
-      "ip": "172.64.156.194",
-      "colo": "SIN",
-      "tcpMs": 81,
-      "raw": 0.595,
-      "score": 0.615,
-      "samples": 1,
-      "dataMs": 1582
-    },
-    {
-      "ip": "172.64.152.115",
-      "colo": "SIN",
-      "tcpMs": 85,
-      "raw": 0.481,
-      "score": 0.501,
-      "samples": 1,
-      "dataMs": 1196
-    },
-    {
-      "ip": "172.64.146.3",
-      "colo": "SIN",
-      "tcpMs": 80,
-      "raw": 0.435,
-      "score": 0.455,
-      "samples": 1,
-      "dataMs": 2340
+      "score": 0.675,
+      "samples": 2
     }
   ]
 }
