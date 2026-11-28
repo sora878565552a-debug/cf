@@ -1,31 +1,32 @@
 {
-  "at": "2026-11-27T02:24:51.537Z",
-  "candidates": 204,
-  "alive": 96,
+  "at": "2026-11-28T03:22:53.238Z",
+  "candidates": 203,
+  "alive": 95,
   "picks": [
+    {
+      "ip": "104.18.36.79",
+      "colo": "SIN",
+      "tcpMs": 85,
+      "raw": 0.928,
+      "score": 0.9480000000000001,
+      "samples": 1,
+      "dataMs": 457
+    },
     {
       "ip": "172.64.146.154",
       "colo": "SIN",
-      "tcpMs": 86,
+      "tcpMs": 76,
       "raw": 0.674,
       "score": 0.734,
-      "samples": 3
+      "samples": 4
     },
     {
       "ip": "172.64.156.130",
       "colo": "SIN",
-      "tcpMs": 83,
-      "raw": 0.489,
-      "score": 0.5489999999999999,
-      "samples": 6
-    },
-    {
-      "ip": "104.18.41.99",
-      "colo": "SIN",
-      "tcpMs": 83,
-      "raw": 0.431,
-      "score": 0.491,
-      "samples": 9
+      "tcpMs": 78,
+      "raw": 0.469,
+      "score": 0.5289999999999999,
+      "samples": 7
     }
   ]
 }
